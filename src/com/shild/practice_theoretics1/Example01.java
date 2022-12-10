@@ -6,9 +6,10 @@ public class Example01 {
         int num;
         num = 100;
         System.out.println("это переменная num" + num);
-num = num *2;
+        num = num *2;
 System.out.println ("значение переменной *2 равно");
 System.out.println (num);
 
     }
 }
+
