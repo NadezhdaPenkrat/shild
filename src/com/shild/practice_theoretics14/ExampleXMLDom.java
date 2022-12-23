@@ -16,7 +16,7 @@ public class ExampleXMLDom {
             // Создается построитель документа
             DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             // Создается дерево DOM документа из файла
-            Document document = documentBuilder.parse("lessonhome10XML/ExampleXMLDomBookCatalog.xml");
+            Document document = documentBuilder.parse("practice_theoretics14/ExampleXMLDomBookCatalog.xml");
 
             // Получаем корневой элемент
             Node root = document.getDocumentElement();
