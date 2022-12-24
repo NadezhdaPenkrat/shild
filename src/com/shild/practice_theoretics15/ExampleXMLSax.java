@@ -11,7 +11,7 @@ public class ExampleXMLSax {
     public static void main(String args[]) {
 
         // Имя файла
-        final String fileName = "lessonhome10XML/ExampleXMLSaxPHONEBOOK.xml";
+        final String fileName = "practice_theoretics15/ExampleXMLSaxPHONEBOOK.xml";
 
         try {
             SAXParserFactory factory = SAXParserFactory.newInstance(); //новый экземпляр
